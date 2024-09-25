@@ -1,4 +1,4 @@
-<h1>Resume Screening App</h1>
+<h1>Resume Screening App With Python</h1>
 
 <p>This is a simple web-based application for resume screening, built using <strong>Streamlit</strong>, <strong>Scikit-learn</strong>, and <strong>NLTK</strong>. It takes a resume file (either in <code>.txt</code> or <code>.pdf</code> format), cleans the text, and classifies the resume into one of several predefined job categories such as "Data Science," "Java Developer," and others. The app uses a pre-trained machine learning model based on <code>TfidfVectorizer</code> and <code>KNeighborsClassifier</code> for classification.</p>
 
