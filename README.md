@@ -124,5 +124,5 @@ nltk.download('stopwords')
 <p>For any questions or issues, please contact:</p>
 
 <ul>
-    <li><strong>Imaad Sharieff</strong> - imaadsharieff266@gmail.com</li>
+    <li><strong>Md Imaad Sharieff</strong> - imaadsharieff266@gmail.com</li>
 </ul>
