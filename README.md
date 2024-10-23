@@ -106,6 +106,7 @@ nltk.download('stopwords')
 
 <ul>
     <li><code>app.py</code>: The main file that runs the Streamlit app.</li>
+    <li><code>sql.py</code>code>: The file that connects to sql database
     <li><code>tfidf.pkl</code>: Pre-trained TF-IDF vectorizer.</li>
     <li><code>clf.pkl</code>: Pre-trained KNeighborsClassifier model.</li>
     <li><code>requirements.txt</code>: List of required packages.</li>
