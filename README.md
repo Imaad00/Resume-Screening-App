@@ -20,7 +20,7 @@
 cd resume-screening-app
 </code></pre>
 
-<h3>2. Install dependencies:</h3>
+<h3>2.Install dependencies:</h3>
 
 <p>Create a virtual environment (optional but recommended):</p>
 
